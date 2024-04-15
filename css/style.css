@@ -9,6 +9,10 @@
 
 html.lenis, html.lenis body {
     height: auto;
+/* 
+    font-family: "Maven Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal; */
   }
   
   .lenis.lenis-smooth {

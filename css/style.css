@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #14fd81;
+    --primary: #03b556;
     --secondary: #FDBE33;
     --light: #F4F6F8;
     --dark: black;
@@ -147,6 +147,12 @@ html.lenis, html.lenis body {
         margin-left: 0;
         padding: 10px 0;
     }
+    .navbar-brand {
+        display: flex;
+        padding: 0 0!important;
+        justify-content: space-between;
+    }
+   
 }
 
 .carousel-caption {
